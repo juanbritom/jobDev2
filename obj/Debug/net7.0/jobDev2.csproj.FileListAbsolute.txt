@@ -1,0 +1,15 @@
+C:\Users\juanb\Desktop\jobDev\jobDev2\bin\Debug\net7.0\jobDev2.exe
+C:\Users\juanb\Desktop\jobDev\jobDev2\bin\Debug\net7.0\jobDev2.deps.json
+C:\Users\juanb\Desktop\jobDev\jobDev2\bin\Debug\net7.0\jobDev2.runtimeconfig.json
+C:\Users\juanb\Desktop\jobDev\jobDev2\bin\Debug\net7.0\jobDev2.dll
+C:\Users\juanb\Desktop\jobDev\jobDev2\bin\Debug\net7.0\jobDev2.pdb
+C:\Users\juanb\Desktop\jobDev\jobDev2\obj\Debug\net7.0\jobDev2.csproj.AssemblyReference.cache
+C:\Users\juanb\Desktop\jobDev\jobDev2\obj\Debug\net7.0\jobDev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanb\Desktop\jobDev\jobDev2\obj\Debug\net7.0\jobDev2.AssemblyInfoInputs.cache
+C:\Users\juanb\Desktop\jobDev\jobDev2\obj\Debug\net7.0\jobDev2.AssemblyInfo.cs
+C:\Users\juanb\Desktop\jobDev\jobDev2\obj\Debug\net7.0\jobDev2.csproj.CoreCompileInputs.cache
+C:\Users\juanb\Desktop\jobDev\jobDev2\obj\Debug\net7.0\jobDev2.dll
+C:\Users\juanb\Desktop\jobDev\jobDev2\obj\Debug\net7.0\refint\jobDev2.dll
+C:\Users\juanb\Desktop\jobDev\jobDev2\obj\Debug\net7.0\jobDev2.pdb
+C:\Users\juanb\Desktop\jobDev\jobDev2\obj\Debug\net7.0\jobDev2.genruntimeconfig.cache
+C:\Users\juanb\Desktop\jobDev\jobDev2\obj\Debug\net7.0\ref\jobDev2.dll
